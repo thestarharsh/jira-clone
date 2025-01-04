@@ -8,7 +8,7 @@ import { Projects } from "./projects";
 
 export const Sidebar = () => {
   return (
-    <aside className="h-full bg-neutral-100 p-4 w-full">
+    <aside className="h-full w-full p-4">
       <Link href="/">
         <Image
           src="/jira-clone-logo.svg"
